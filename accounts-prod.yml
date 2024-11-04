@@ -20,7 +20,7 @@ accounts:
   message: "FROM ACCOUNTS PROD PROFILE CFGSERVER"
   contact_details:
     name: "John doe"
-    email: "john@exampleProd.com"
+    email: "{cipher}ff6df29b6dd92fe5ba0c6ea4bb7981bcf5053ff2e1ef44789d5febd8dd1b6a3613d85a8a9a3bfeb2e8cb7b1b6a081138"
   onCallSupport:
     - 976543321
     - 909898573

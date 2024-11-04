@@ -1,6 +1,6 @@
 
 accounts:
-  message: "FROM LOANS PROD PROFILE CFGSERVER changed"
+  message: "FROM LOANS PROD PROFILE CFGSERVER.."
   contact_details:
     name: "John doe"
     email: "john@example.com"

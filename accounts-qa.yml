@@ -1,0 +1,9 @@
+accounts:
+  message: "FROM ACCOUNTS QA PROFILE CFGSERVER"
+  contact_details:
+    name: "John doe"
+    email: "john@exampleProd.com"
+  onCallSupport:
+    - 976543321
+    - 909898573
+

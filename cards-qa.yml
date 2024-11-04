@@ -1,0 +1,9 @@
+
+accounts:
+  message: "FROM CARDS QA PROFILE CFGSERVER"
+  contact_details:
+    name: "John doe"
+    email: "john@example.com"
+  onCallSupport:
+    - 976543321
+    - 909898573
